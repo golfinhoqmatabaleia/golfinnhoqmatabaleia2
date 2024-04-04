@@ -1,11 +1,15 @@
 @charset "UTF-8";
 body
 {
-  background-color: azul;
-  color: azul;
-  font-size: 12 pt;
+  background-color: black;
+  color: blue;
+  font-size: 30 pt;
   font-family: Arial;
-}
-h1
+
+h1 
 {
-  color: cor;
+color: blue;
+font-size:30 pt;
+  
+{
+
